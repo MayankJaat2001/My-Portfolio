@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.0c760cf4.css",
-    "main.js": "/My-Portfolio/static/js/main.1dccc476.js",
+    "main.js": "/My-Portfolio/static/js/main.9e79dbc7.js",
     "static/js/787.b19480f2.chunk.js": "/My-Portfolio/static/js/787.b19480f2.chunk.js",
     "static/media/Flipkart.png": "/My-Portfolio/static/media/Flipkart.1c3afd3aaa169bcc5f17.png",
     "static/media/Image.png": "/My-Portfolio/static/media/Image.78412328d509267e21a4.png",
     "static/media/Logo.png": "/My-Portfolio/static/media/Logo.417ca899ee273f1f86d3.png",
     "index.html": "/My-Portfolio/index.html",
     "main.0c760cf4.css.map": "/My-Portfolio/static/css/main.0c760cf4.css.map",
-    "main.1dccc476.js.map": "/My-Portfolio/static/js/main.1dccc476.js.map",
+    "main.9e79dbc7.js.map": "/My-Portfolio/static/js/main.9e79dbc7.js.map",
     "787.b19480f2.chunk.js.map": "/My-Portfolio/static/js/787.b19480f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c760cf4.css",
-    "static/js/main.1dccc476.js"
+    "static/js/main.9e79dbc7.js"
   ]
 }
